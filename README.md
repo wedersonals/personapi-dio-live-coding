@@ -10,6 +10,7 @@ Tópicos abordados:
 * Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
+* Adicionado Swagger
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
@@ -23,6 +24,11 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/people
 ```
 
+Para acessar o Swagger:
+
+```
+http://localhost:8080/swagger-ui.html
+```
 
 Pré-requisitos para a execução do projeto:
 
